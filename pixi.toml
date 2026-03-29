@@ -1,5 +1,5 @@
 [workspace]
-authors = ["StrawHatGG <263677768+StrawHatGG@users.noreply.github.com>"]
+authors = ["pipedude <190111823+pipedude@users.noreply.github.com>"]
 channels = ["https://prefix.dev/robostack-jazzy", "conda-forge"]
 name = "ros_study"
 platforms = ["linux-64"]
