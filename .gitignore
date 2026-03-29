@@ -1,0 +1,31 @@
+# pixi environments
+.pixi/*
+!.pixi/config.toml
+
+# python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# ros2 / colcon artifacts
+build/
+install/
+log/
+
+# local environments and secrets
+.env
+.env.*
+*.local
+
+# logs
+*.log
+
+# ide / os files
+.DS_Store
+.idea/
+.vscode/
+
+help_cmd.txt
